@@ -1,0 +1,9 @@
+---
+title: "Baidu released ERNIE 5, the company’s new powerful omnimodal model, and Famou, a ‘self-evolving’ AI"
+date: 2026-06-22
+tags: [AI Agent, Baidu, China, LLM]
+source: https://elinke1c.daily.therundown.ai/ss/c/u001.6k0_SAz8nrOuu\_-LoNX1HbwDzV__5f__MSnQO9oeinKxRYx4_E1mNpJRuunovlHXxXAMIAhL9hScb1vKGYLVPKyUSZ9alNTFUk4dOucf0vMEZzbSkAzMA4SXN5w0kp0VbcKxcBywoP8FknH2hgue5zEQK5E1O1XxS1buS9ZrhJOnIPXeyQnVvQ-sI7S830CFf96VC8EoLWm6WyXCrPyLhjjHEUW7qMNa25201t05UgpHid0LhNNaAqOr8212LxJXLTgSjcm7KniH6Tw415VNIZ3nvM6jd1m4-J_ipQfKwiw/4ll/ethw4QD9TbShRnZeXRyEhQ/h29/h001.Xl5UTRgKFFUsdn8vR4-xT8xtiVep5KdTRaWxCEx6dk4
+type: note
+status: processing
+---
+**Baidu** **[released](https://elinke1c.daily.therundown.ai/ss/c/u001.6k0_SAz8nrOuu\_-LoNX1HbwDzV__5f__MSnQO9oeinKxRYx4_E1mNpJRuunovlHXxXAMIAhL9hScb1vKGYLVPKyUSZ9alNTFUk4dOucf0vMEZzbSkAzMA4SXN5w0kp0VbcKxcBywoP8FknH2hgue5zEQK5E1O1XxS1buS9ZrhJOnIPXeyQnVvQ-sI7S830CFf96VC8EoLWm6WyXCrPyLhjjHEUW7qMNa25201t05UgpHid0LhNNaAqOr8212LxJXLTgSjcm7KniH6Tw415VNIZ3nvM6jd1m4-J_ipQfKwiw/4ll/ethw4QD9TbShRnZeXRyEhQ/h29/h001.Xl5UTRgKFFUsdn8vR4-xT8xtiVep5KdTRaWxCEx6dk4)** ERNIE 5, the company’s new powerful omnimodal model, and **[Famou](https://elinke1c.daily.therundown.ai/ss/c/u001.Q334NVcZU4O6L6VKRz8ijAGTSgI3UhEczlMUzFFS7425b_6A5yuQq1jRCQTpN0ti2hJfwMbypb0_cQQDod4ugdANtm9YZJRtBtx-F3FWRxY0Yr6r7GvJn1TTMjTjvGL7HF_NxEl0kam0akR030MR6U81E2QW1nmt1RcFCJom79eBZM0Ql79fWSK\_-d9kq-yxzpc_JeJZufxE3yq_WB3IqaBUsf_acNV46fyiwS7YypY10gPIdCHrfiKkiRyz23EE/4ll/ethw4QD9TbShRnZeXRyEhQ/h30/h001.GCdZ-Nc55r2aTzI1f-aHHD5IavgPikkz1s_qlJuRw6E)**, a ‘self-evolving’ AI agent for discovering optimal solutions in complex scenarios.
