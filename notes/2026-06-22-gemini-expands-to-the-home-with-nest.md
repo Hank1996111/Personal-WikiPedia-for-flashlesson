@@ -1,0 +1,33 @@
+---
+title: "Gemini expands to the home with Nest"
+date: 2026-06-22
+tags: [Amazon, Apple, Google, Hardware, Image]
+source: https://link.mail.beehiiv.com/ss/c/u001.u02qJFHqR61XIkDbYtOHoFD8KXkWiT4sOx6rTzsMj_YlLTdunNjlUiRITPpOP3Sowp7Z7LSzKnV4TmGFJi0IZGebomVE6MxD_1cwly6dCQ_vEXbc9sa4pRvr814PRh7Ne3mJBdXAmO4yd6pJPI5hUnBFEG_mueCcqQOvuz_R6Ipm8K0TyHgWppI4RA0q8U4izgNHRKtiIB4BXWspppuv3Oyv0RuoYgHpGhYgpYESy7gVAmVDBZ4JcUYCJhtuSlqWRKkZn8_KIwSQh6-Dzzuhw3wRhl6s3u4W6CKXx4GZxBs/4j8/vzi9MKImR5C5w0LHaDw5uw/h21/h001.13WmIjq-QLOf3jRR5YyJQU5qZDXituze7a12VVyaWow
+type: article
+status: read
+---
+++**
+
+
+
+
+
+|  | 
+|---|
+| *Image source: Google* | 
+
+
+**The Rundown:** Google just **[announced](https://link.mail.beehiiv.com/ss/c/u001.u02qJFHqR61XIkDbYtOHoFD8KXkWiT4sOx6rTzsMj_YlLTdunNjlUiRITPpOP3Sowp7Z7LSzKnV4TmGFJi0IZGebomVE6MxD_1cwly6dCQ_vEXbc9sa4pRvr814PRh7Ne3mJBdXAmO4yd6pJPI5hUnBFEG_mueCcqQOvuz_R6Ipm8K0TyHgWppI4RA0q8U4izgNHRKtiIB4BXWspppuv3Oyv0RuoYgHpGhYgpYESy7hX8S9bkIrLGmhdQ834HaSCjmXrxTnu6xAc5JWos7M4HQZm8Wo93bEPnCUMW7Qqjko/4j8/vzi9MKImR5C5w0LHaDw5uw/h22/h001.8PrXsES2CN8caDWO50tjf3NEFX7or4-5VsjWLWqWTbM)** that the company is replacing its AI Assistant with Gemini across its Nest home speaker and display lines this fall, bringing advanced conversational AI, Gemini Live, and multi-device awareness to smart home control.
+
+
+**The details:**
+
+
+- Gemini for Home understands complex commands and can also handle multiple requests in a single sentence without requiring rigid voice commands.
+
+- The system will use Gemini Live for natural conversations, with use cases like providing dinner ideas based on fridge contents or troubleshooting appliances.
+
+- Google is planning both free and paid tiers with early access beginning through a preview program in October before a broader rollout.
+
+
+**Why it matters:** Between Amazon’s AI **[revamp](https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf75St_4h4uVDlb2B1USeB_GQm1AkJWqUoeJVFv7T0cZ07rOhQJv9Q3ScL79iO0wcge8vrIzzlOjclnjQyQOBxI_HK-HggxdOabdXiB1W5YOnkBW8vNJXL5BZbQ-IRk9Xd5yzGm0jvq7W_Shn4e-KcdFSZFNoWmhGUNqco1hkNVWboB2DLALZHaoBui01YdYHVl_J474e1hN778sFRMQrIDIrTsGmNbJFHG1f824M4NllQjNmuxGSj0mHpKPz6xPdQM-eUPOtEtDz-c_Q_yPA28DyNyYeHpiNaP__bOsj83JGLFmqhkq4mT8H9PRexbKav2gber1D_FBTNlKcgsQYy3QIvxm9Qa_zkkmxMyJ2IOftG9N4qj2PcW0VE2TQlSOTV0VlObyAhnAZAi3hSuOUC6qXmYCP3etRTaqLdAlHN6r_l_Bg8NCR5PSaqmy-HmL_SKvt_1YMiD8BoGWTIFPzoJBkuwGeGgmm4v8NupdTZmJHTGNDwNkZ5XD69rhlr8mZllgqfASCVvZa_U1GLLF-ZQh0GI21joX2u_TUZob92Ir9WpToAIhozEFUPORDDCIoLlnXXzXXN7KxO7pi7_Aq7ImlGJPmYTodUVGMag-kJiUYlbs3tyaGQkw9Y_nCuVo8DZHM8M7yjczxIt9mnnwmb80C-W3_kldLSXClKSvshUbGoQ0XFOYj7CYtKfvO3o4sQd7MXq2niFjwrMFxnL3eWaN1Or6PJjD4TyNrHjYyYC8FN6RVXmf8Y1gRBKDp4BYtWPzLlNS_rm8glYstoqbdfH6Si3qDh5pLdxf2qyc2ZIX3/4j8/vzi9MKImR5C5w0LHaDw5uw/h23/h001.OT0i8Xa22un60ylsEMTDp0smGKQbSehq5gdNYyBuwkw)** of Alexa, Samsung’s AI appliance ecosystem, Apple’s **[rumored](https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf75St_4h4uVDlb2B1USeB_HIbKOvYowAWDFMn5zr4c0ISwDLZKTG3iJl_xWZhnLRWv3iteGpAWQ8sxoqK1aKhdjPHDAKC67vrN4NG3k-BaIhV1do_uDCjsTh5RirAxDPx--Bz2OvtW82P2HtlNXzmrZdSZfogyBnMz_a6bWjsN7Rxn4DRV7Rxmgo3NjsyASJqqqIzliqtSsr-1pHhL_EZ9kqt3U3qPjo1xA6jSPrRjnV7bH2dRbUlo0vLV8LfTJBaMc4N_pp_w-J1LpeBjLyw-sAKb0McQbKICjiwdk1SBKyHeaHmQIHT4Zb2XxM0NzKoLboqyE0omC7jWfucyvknMtmfmv42nnKSbDwP0ThDOCvNJ6T2_A93h1PbLW3l3b06G7q_5gHqNvDBcytQCkmef8D0I3VjyoBJe0LLGquXp8aQuBaEKJ9tJK5JcciF-QdHmWd3-cy6ajGCu0yfiEQ1Lb3vxb9r8f8mJqDFOmtqC8y4cX5SDnr_N6beacolQQFrlqKybrjXND4KLbQr9RpQwQYD2VcMLkEw171kAAVYuo2NPebUUjfGCNsLlBOlF4Ypk8MwVfqlMkXYL4mpHzJDsJ2NByN4Q4gadVyWFdccL7CcrL3PK8si4WVHwTFG3esEsDxJFXJeUHUJ2rEWTBWO0OrMFLN0QSuwlQ6H-gmwMn7TtVhLKLXQcIgtV26igFTIhPr2KYqGFtq5lHt0mBVsDbLllBupaPssqbG8tDQ3rJHEAqKwvVgGNw2cEHVPUK4TG0FCvXRuvsPXC7hHCsiugO0YAOWNmSdBLa9cjgLJyEd/4j8/vzi9MKImR5C5w0LHaDw5uw/h24/h001.3lGXtegmcvNsBzIbSdmg0lTrRQCZnRuC5ehwivjbZx8)** devices and Google, the race to bring AI into the home is getting more competitive than ever — and while it still feels like we’re only in the early stages of AI hardware actually being useful, the upgrades are coming fast.
