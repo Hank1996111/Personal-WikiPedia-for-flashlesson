@@ -1,0 +1,9 @@
+---
+title: "Anthropic published a new threat report revealing that cybercriminals exploited its Claude Code plat"
+date: 2026-06-22
+tags: [Anthropic, Coding, LLM]
+source: https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf937MUSrYzK6JzB2n81ON3wprj7HIZSPjP_eG5XrRGU1K73z18ITXs7w72gv2OgykrL_C1vo4mivJjMwD7viYZYTb7FCfS7jPrnD5EJwtoHVSYQF0Q4gQCuuAN42BMsl_ThZ0R7CiQ8joN7BeDZ3rYldxBU49JFnuhEkAYdhb1OcdaqFSgAyB1sYubJLYGfcCapejDjpeO303OfCfjQ8BKTCMVIRpGEEjpx3EYBHjXPzeOCOFVd4abhieaoybI1BK2e2gchFvyCmNdEMICqKx6k/4jg/FDW_4pyxS7SmVYZQId2y3A/h29/h001.3f8s1LbVXBlhv8D6hHYWDfktFDjYClkKO2ImnZzISCE
+type: note
+status: processing
+---
+**Anthropic [published](https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf937MUSrYzK6JzB2n81ON3wprj7HIZSPjP_eG5XrRGU1K73z18ITXs7w72gv2OgykrL_C1vo4mivJjMwD7viYZYTb7FCfS7jPrnD5EJwtoHVSYQF0Q4gQCuuAN42BMsl_ThZ0R7CiQ8joN7BeDZ3rYldxBU49JFnuhEkAYdhb1OcdaqFSgAyB1sYubJLYGfcCapejDjpeO303OfCfjQ8BKTCMVIRpGEEjpx3EYBHjXPzeOCOFVd4abhieaoybI1BK2e2gchFvyCmNdEMICqKx6k/4jg/FDW_4pyxS7SmVYZQId2y3A/h29/h001.3f8s1LbVXBlhv8D6hHYWDfktFDjYClkKO2ImnZzISCE)** a new threat report revealing that cybercriminals exploited its Claude Code platform to automate a multi-million dollar extortion scheme.
