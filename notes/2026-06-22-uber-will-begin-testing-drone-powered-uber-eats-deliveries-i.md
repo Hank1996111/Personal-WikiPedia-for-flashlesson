@@ -1,0 +1,9 @@
+---
+title: "Uber will begin testing drone-powered Uber Eats deliveries in select U.S"
+date: 2026-06-22
+tags: [Business, Finance, Robotaxi, Uber]
+source: https://elinkb67.technews.therundown.ai/ss/c/u001.vHmoiSe6IuBeRrC7tjlx-FSKB41cgbhtIFrbF-RPBPT11iuqK1eR8vvRv-ZdmnjltJcrKEZ62dcrUwOYqPhPDorLgwawq0JYAPwk_f8D4zVPlMZWb9XD9sVtnFzChf4Rt_03vHP2oAeVS58VzeONEobwIqFMBD10Jt53n7S3qrMN-15bqi8BP5MOJpryfiGheIR-QWjepmPSJRj3vZwzVKMzGlt_isVxH-d6C7bEaG-HbtBvkNf85HYrZ5dS9oI2g5FFePQJqe0bV49yzQ9S6HejEMNT2sPKcB1S1NgNuoBsW2h6rZ6K5ztSlYady3zvCl0nT-SlhkyQRMg6li7hidxfb_pe_pVlCekrr7DGUAOs_HBczdYVKv2iGGXcRRxs/4k1/BlknitfyTHu6HiIx2f4MPw/h20/h001.CMx-kbmUDqSW51Q7Q7oPn63nMTBenBcjjfcdaPDfT4E
+type: note
+status: processing
+---
+**Uber** will begin **[testing](https://elinkb67.technews.therundown.ai/ss/c/u001.vHmoiSe6IuBeRrC7tjlx-FSKB41cgbhtIFrbF-RPBPT11iuqK1eR8vvRv-ZdmnjltJcrKEZ62dcrUwOYqPhPDorLgwawq0JYAPwk_f8D4zVPlMZWb9XD9sVtnFzChf4Rt_03vHP2oAeVS58VzeONEobwIqFMBD10Jt53n7S3qrMN-15bqi8BP5MOJpryfiGheIR-QWjepmPSJRj3vZwzVKMzGlt_isVxH-d6C7bEaG-HbtBvkNf85HYrZ5dS9oI2g5FFePQJqe0bV49yzQ9S6HejEMNT2sPKcB1S1NgNuoBsW2h6rZ6K5ztSlYady3zvCl0nT-SlhkyQRMg6li7hidxfb_pe_pVlCekrr7DGUAOs_HBczdYVKv2iGGXcRRxs/4k1/BlknitfyTHu6HiIx2f4MPw/h20/h001.CMx-kbmUDqSW51Q7Q7oPn63nMTBenBcjjfcdaPDfT4E)** drone-powered Uber Eats deliveries in select U.S. markets this year through a partnership and small investment with Israeli startup Flytrex.
