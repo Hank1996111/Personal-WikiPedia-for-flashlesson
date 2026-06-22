@@ -1,0 +1,9 @@
+---
+title: "Snowflake and Anthropic announced a $200M multi-year partnership to deploy Claude-powered AI agents"
+date: 2026-06-22
+tags: [AI Agent, Anthropic, LLM, Snowflake, Video]
+source: https://elinke1c.daily.therundown.ai/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf937MUSrYzK6JzB2n81ON3wWJtaBSOYDnqEpzrhxJ6vEogG2RkV6CCISgEMh-nkcu9ZwyaLqb3eowzFU3AX6gu_q12SDGdGDLcl9VcXJaPS48NaCFny2Wa8eJ7yFMRIU7bwTPUC7h62D17xfEax9QZ8pcmic6YPqxo3cSZkuU8aqj7DmyNTWK3HPtHyTAbEH8j575N_RM9G-wphvCh5c2u8U5gIjFx0sxH-l4qjS04yzYyKbfGt0HzymLsm02QXJOp-N7ecV9jZ66kszswNlOYq82sqEVO_JnAJMTHR85Y7x/4m6/sT9XRgZ4Twapv0vhp9nPBg/h29/h001.cHmNPjahVXbtq6D1C2b_cLWzDF4PGonRMYi60mZQuyE
+type: note
+status: processing
+---
+**Snowflake and Anthropic [announced](https://elinke1c.daily.therundown.ai/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf937MUSrYzK6JzB2n81ON3wWJtaBSOYDnqEpzrhxJ6vEogG2RkV6CCISgEMh-nkcu9ZwyaLqb3eowzFU3AX6gu_q12SDGdGDLcl9VcXJaPS48NaCFny2Wa8eJ7yFMRIU7bwTPUC7h62D17xfEax9QZ8pcmic6YPqxo3cSZkuU8aqj7DmyNTWK3HPtHyTAbEH8j575N_RM9G-wphvCh5c2u8U5gIjFx0sxH-l4qjS04yzYyKbfGt0HzymLsm02QXJOp-N7ecV9jZ66kszswNlOYq82sqEVO_JnAJMTHR85Y7x/4m6/sT9XRgZ4Twapv0vhp9nPBg/h29/h001.cHmNPjahVXbtq6D1C2b_cLWzDF4PGonRMYi60mZQuyE) **a $200M multi-year partnership to deploy Claude-powered AI agents to Snowflake’s 12,600+ enterprise customers.
