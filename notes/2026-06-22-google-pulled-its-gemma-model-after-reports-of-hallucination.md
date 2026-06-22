@@ -1,0 +1,9 @@
+---
+title: "Google pulled its Gemma model after reports of hallucinations on factual questions, with the company"
+date: 2026-06-22
+tags: [Google, LLM, Research, Search]
+source: https://elinke1c.daily.therundown.ai/ss/c/u001.6k0_SAz8nrOuu\_-LoNX1HRnO6dbe9TFWoHQTrkwvF79Fr-2a6rHAmDCs5CebydBw5q4ImiV8Tv1etj4MxZl9R4yfkB1ENyS1vJ8TJlEyvzxRPxvs6JieDSy20yw_7b4JcnSdpzFaWccHHgZym6nGcBTKorczD-7uHjeW1t304g9GQo6OAuJP2mzsAg67u8sfhBXWfEfdUBYEDuNGLFENGA6L3RR7u1I5o8V_2LlC4UnfwkatOn_YRfXBGyFatY51w8Luk6kIkhxTyysTZ8pLmCbVq-IxaJcz-Vj9N_9wfPc/4la/tnGBRBscTzq4oWEU3MyJJg/h29/h001.jzam7GPvx2UZzLOGbMlcJIU0-DFvnVg-UM7G9vm27FY
+type: note
+status: processing
+---
+**Google** **[pulled](https://elinke1c.daily.therundown.ai/ss/c/u001.6k0_SAz8nrOuu\_-LoNX1HRnO6dbe9TFWoHQTrkwvF79Fr-2a6rHAmDCs5CebydBw5q4ImiV8Tv1etj4MxZl9R4yfkB1ENyS1vJ8TJlEyvzxRPxvs6JieDSy20yw_7b4JcnSdpzFaWccHHgZym6nGcBTKorczD-7uHjeW1t304g9GQo6OAuJP2mzsAg67u8sfhBXWfEfdUBYEDuNGLFENGA6L3RR7u1I5o8V_2LlC4UnfwkatOn_YRfXBGyFatY51w8Luk6kIkhxTyysTZ8pLmCbVq-IxaJcz-Vj9N_9wfPc/4la/tnGBRBscTzq4oWEU3MyJJg/h29/h001.jzam7GPvx2UZzLOGbMlcJIU0-DFvnVg-UM7G9vm27FY)** its Gemma model after **[reports](https://elinke1c.daily.therundown.ai/ss/c/u001.KT4rQsO6sHS_v2VASG2xukYrcBLmr-VWvDqpbYLTfcQXBB3W8OdEaxYLfBXBjVqATWiH9cNzDH_uApCF22b1rKpHy6FYo_NYhVeimbJq1j7H8qROJRmp1DnE1c_5hVViyw66b9H8JmeV1eq3ek8n_7ePcxi9PX7nJnODRX0WO3qMg5TuuZUi-8crDm1SKGAygxnXokLzAhJelaU_lCf-fLwQNrzPLuEJITluG93h5yBb3d2JFeFmJO1KohGzme56QuBG31H4-OKzYsJZc073fwKAR6QSPYBkvPq0BLFGrYshlgJriZeS2j5hrjbYjEI7aFhEG9Eb1_jVB3M9_O7YS6KAJ20S7vNLFzpqtiTgroZ22Q4-iVv2Z8Updbh_Dzq6/4la/tnGBRBscTzq4oWEU3MyJJg/h30/h001.r9FrJXGhv1J-PgppeIXWrT5zIEnl98urnr2FpcK627w)** of hallucinations on factual questions, with the company emphasizing it was intended for developer and research purposes.
