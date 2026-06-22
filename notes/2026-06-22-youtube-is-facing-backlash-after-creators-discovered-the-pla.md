@@ -1,0 +1,9 @@
+---
+title: "YouTube is facing backlash after creators discovered the platform using AI to apply effects like unb"
+date: 2026-06-22
+tags: [Video]
+source: https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf2HRSlp7zpdp76ETJs5ACcP6nyMtYX4Kehvl5lvOciJDV4VvafwkTDvWMeW3KJ_gN5uY7IdtVTmwthcbWcSkZ1-cvpsAGeKGcvrwSp9S0yZNsuyCMpVtsn8kD5szWsBcbJ_6fCdF_Z-TdeF34vpB0D4Q9mGRreQ4x_ez882jzHdiv_NFUyV79mxZYikFdvzLgHEy0UlnGUGk7KaZ2PSSrgUo69JVhxZvPhsvaXNIUAbF05d8w3DF7c-\_LYrnKJVFpGGhZy5Fmt33kzfn7UrjW6baeDI32-EI6vHHZ1qErQgg-GkBn7ppFL1YTep6fpAE5W2R8v6gcXF0g28p8fN0zRw/4jd/HWaxoHzKRhyYFA-iRuGgwA/h27/h001.g5inFfPE6zZ26zRp5aC28AVcRGTQYT7wy1YMzC6QrOw
+type: note
+status: processing
+---
+**YouTube** is **[facing backlash](https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf2HRSlp7zpdp76ETJs5ACcP6nyMtYX4Kehvl5lvOciJDV4VvafwkTDvWMeW3KJ_gN5uY7IdtVTmwthcbWcSkZ1-cvpsAGeKGcvrwSp9S0yZNsuyCMpVtsn8kD5szWsBcbJ_6fCdF_Z-TdeF34vpB0D4Q9mGRreQ4x_ez882jzHdiv_NFUyV79mxZYikFdvzLgHEy0UlnGUGk7KaZ2PSSrgUo69JVhxZvPhsvaXNIUAbF05d8w3DF7c-\_LYrnKJVFpGGhZy5Fmt33kzfn7UrjW6baeDI32-EI6vHHZ1qErQgg-GkBn7ppFL1YTep6fpAE5W2R8v6gcXF0g28p8fN0zRw/4jd/HWaxoHzKRhyYFA-iRuGgwA/h27/h001.g5inFfPE6zZ26zRp5aC28AVcRGTQYT7wy1YMzC6QrOw)** after creators discovered the platform using AI to apply effects like unblur, denoise, and clarity to videos without notice or permission.
