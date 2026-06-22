@@ -1,0 +1,9 @@
+---
+title: "Google integrated its Gemini AI into Maps, enabling conversational navigation, multi-step questions,"
+date: 2026-06-22
+tags: [Google, LLM]
+source: https://elinke1c.daily.therundown.ai/ss/c/u001.u02qJFHqR61XIkDbYtOHoFD8KXkWiT4sOx6rTzsMj_Y1OE4ZRNui_EgzhDpaOUDXUN5mKCcf2_Wjn46FktAAFM71VMJSKy7zGJp8o6AzTy9Ein2lC22TM5YAUCbtGmKhwPkNKtaBzNLG9yD7WD6Usm9Ay_wE5iiZACwgiD4NmKqtDZQ7FW68b8bcAleM96_tPuBFWgRXfi2921FKPqv2AI0c5Dugoy6wnYlZb8GLnvchKqeI7LAEw__tJk0TFVXIbTy9QtMSMBFyDBVSnoVS7DlFNHvdg7oqq3OvPKHivm04mppVyiMP1-EQ8OgICiEW/4ld/VXHf6HhQQdKEe6BGxZCjOA/h28/h001.mt4hmmqcmtvVhzzAdBw7QzZlyAJOU0pyWF3ho45t7fc
+type: note
+status: processing
+---
+**Google [integrated](https://elinke1c.daily.therundown.ai/ss/c/u001.u02qJFHqR61XIkDbYtOHoFD8KXkWiT4sOx6rTzsMj_Y1OE4ZRNui_EgzhDpaOUDXUN5mKCcf2_Wjn46FktAAFM71VMJSKy7zGJp8o6AzTy9Ein2lC22TM5YAUCbtGmKhwPkNKtaBzNLG9yD7WD6Usm9Ay_wE5iiZACwgiD4NmKqtDZQ7FW68b8bcAleM96_tPuBFWgRXfi2921FKPqv2AI0c5Dugoy6wnYlZb8GLnvchKqeI7LAEw__tJk0TFVXIbTy9QtMSMBFyDBVSnoVS7DlFNHvdg7oqq3OvPKHivm04mppVyiMP1-EQ8OgICiEW/4ld/VXHf6HhQQdKEe6BGxZCjOA/h28/h001.mt4hmmqcmtvVhzzAdBw7QzZlyAJOU0pyWF3ho45t7fc)** its Gemini AI into Maps, enabling conversational navigation, multi-step questions, and directions based on visible buildings instead of just distances.
