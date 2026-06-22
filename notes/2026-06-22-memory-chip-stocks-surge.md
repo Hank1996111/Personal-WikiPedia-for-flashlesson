@@ -4,7 +4,7 @@ date: 2026-06-22
 tags: [記憶體, AI, Apple, 半導體, 投資]
 source: https://www.aiposthub.com/memory-chip-stocks-surge-apple-price-hike-ai-shortage/
 type: article
-status: unread
+status: read
 ---
 
 # 記憶體晶片股暴漲：Apple 確認漲價，AI 需求引爆結構性短缺危機
