@@ -1,0 +1,9 @@
+---
+title: "Perplexity launched the mobile version of its Comet AI browser assistant, now available to download"
+date: 2026-06-22
+tags: [Google, Perplexity, Search]
+source: https://elinke1c.daily.therundown.ai/ss/c/u001.yPRmQ1cS76XBKnOKtbP_Vl_AYX0gW5sQBW1F8CWXRdeoXk_edFe8MBeFI_TJ_NU8RkSGz_m8XqT_YjBfi5Nvv54joIR-7LcDA2nP2cCe6Uy6Y_uzz7pQlhu112y4NKq3I9tTlShyFC5tr6sqxD4tf4XA6lkpU4QOSid1sI9F3S4AYCGOCu7iTRhNJGryFiTYbA21zisjc2JsAc7aaxd2VfRXjI6Lp43-BP0cyYe7L-HA8EnY9a4zfmGk4SgqvuYSNdvS8b9dRE_HsUV-isshgEherLkxBsukHK3nnGiGar_NS8_ilY2CIqn0LnCXfulD1DT8hwTfD7aFQ4Pf8Cu0lg/4ls/iyhX60CKSyS_IVTLBfcAow/h28/h001.llytrWvKq4bWoxHgoOtxUFC_A2uRuqEIBwc-8z-PaKw
+type: note
+status: processing
+---
+**Perplexity [launched](https://elinke1c.daily.therundown.ai/ss/c/u001.yPRmQ1cS76XBKnOKtbP_Vl_AYX0gW5sQBW1F8CWXRdeoXk_edFe8MBeFI_TJ_NU8RkSGz_m8XqT_YjBfi5Nvv54joIR-7LcDA2nP2cCe6Uy6Y_uzz7pQlhu112y4NKq3I9tTlShyFC5tr6sqxD4tf4XA6lkpU4QOSid1sI9F3S4AYCGOCu7iTRhNJGryFiTYbA21zisjc2JsAc7aaxd2VfRXjI6Lp43-BP0cyYe7L-HA8EnY9a4zfmGk4SgqvuYSNdvS8b9dRE_HsUV-isshgEherLkxBsukHK3nnGiGar_NS8_ilY2CIqn0LnCXfulD1DT8hwTfD7aFQ4Pf8Cu0lg/4ls/iyhX60CKSyS_IVTLBfcAow/h28/h001.llytrWvKq4bWoxHgoOtxUFC_A2uRuqEIBwc-8z-PaKw)** the mobile version of its Comet AI browser assistant, now available to download for Android devices via the Google Play Store.
