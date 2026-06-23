@@ -4,7 +4,7 @@ date: 2026-06-23
 tags: [Perplexity Brain, AI Agent, 記憶系統, Context Graph, Perplexity Computer]
 source: https://www.aiposthub.com/perplexity-brain-ai-agent-memory-system/
 type: article
-status: unread
+status: read
 ---
 
 Perplexity AI 於 2026/6/17 推出 Brain，專為 AI Agent 平台「Computer」設計的自我改善記憶系統。
